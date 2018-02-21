@@ -1,0 +1,7 @@
+Filled container. 
+Container contains elements:
+It is Rectangle: x1 = 3, y1 = 4, x2 = 5, y2 = 6, color: RED
+It is Circle: a = 1, b = 1, r = 1, color: ORANGE
+It is Rectangle: x1 = 2, y1 = 2, x2 = 2, y2 = 2, color: YELLOW
+It is Rectangle: x1 = 1, y1 = 2, x2 = 3, y2 = 4, color: GREEN
+It is Circle: a = 12, b = 23, r = 34, color: BLUE
